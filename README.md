@@ -1,1 +1,1 @@
-# myStream_auth
+# my-stream auth server
