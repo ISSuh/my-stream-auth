@@ -1,1 +1,1 @@
-# myStream_login
+# myStream_auth
